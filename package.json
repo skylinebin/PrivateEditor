@@ -1,0 +1,23 @@
+{
+  "name": "privateeditor",
+  "version": "0.0.1",
+  "description": "Editor that masks or encodes the document being edited.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylinebin/PrivateEditor.git"
+  },
+  "keywords": [
+    "Private",
+    "Editor"
+  ],
+  "author": "SkylineBin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skylinebin/PrivateEditor/issues"
+  },
+  "homepage": "https://github.com/skylinebin/PrivateEditor#readme"
+}
